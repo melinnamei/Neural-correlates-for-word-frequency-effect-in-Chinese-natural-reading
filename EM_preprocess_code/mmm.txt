@@ -1,0 +1,2 @@
+subjectid	trialid	sentid	wordid	lastword	cond	prevchnum	currchnum	nextchnum	previstarget	curristarget	nextistarget	acc	totalblink	regin	regout	fn	ffd	gd	tt	prevWF	currWF	nextWF	currWP	
+2	108	1	1	0	2		1	1	
